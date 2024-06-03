@@ -1,1 +1,2 @@
 # Portforlio_About-me
+This project is a personal portfolio website for Jignesh Tandel, showcasing his skills, projects, and contact information. It features multiple sections such as an About Me section, Skills section, Projects section, Resume section, and Contact Me section. The website is built using HTML for structure and content, CSS for styling, and includes responsive design principles for optimal viewing across various devices.
